@@ -2,7 +2,9 @@
 #include <string.h>
 
 int main(void) {
-  printf("Hi mate. How's it going?/n");
+  char *greet1 = "What's up?", greet2 = "Business as usual!";
+
+  printf("Hi mate. %s %s/n", greet1, greet2);
 
   return 0;
 }
