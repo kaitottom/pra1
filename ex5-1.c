@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main(void) {
-    printf("Hi mate. How's it going?/n");
+  printf("Hi mate. How's it going?/n");
 
-    return 0;
+  return 0;
 }
